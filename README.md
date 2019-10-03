@@ -3,4 +3,4 @@ This directory includes the full source code of a social network I built earlier
 
 It has full user registration and authentication, multimedia uploading and much more functionalities.
 
-
+Note that some of the files are intended for uncompleted mobile implementations of this project.
